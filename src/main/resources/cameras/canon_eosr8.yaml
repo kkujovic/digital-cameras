@@ -1,0 +1,195 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20251119022651/https://www.dpreview.com/reviews/canon-eos-r8-review
+ProductCode: canon_eosr8
+Award: silver
+ImageURL: /files/p/products/canon_eosr8/shots/40d16e55ebb24f74bbd92cd1023bac9e.png
+Name: Canon EOS R8
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 87
+URL: /products/canon/slrs/canon_eosr8
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/canon_eosr8/shots/40d16e55ebb24f74bbd92cd1023bac9e.png
+        - /files/p/products/canon_eosr8/shots/4083644af1bd41769712381621757491.png
+    ReviewSummary:
+        GoodFor: 'Full frame beginners, who don''t want a big heavy camera. Occasional vloggers, and videographers who don''t need to roll footage for long periods. Canon RF users looking for a second body with great image quality.'
+        NotSoGoodFor: 'High-speed sports shooting. Those hoping for a wide array of affordable lenses. Wilderness types who venture away from power outlets for days on end.'
+        Conclusion: 'An affordable camera that can punch above its weight in stills and 4K video. While its poor battery life keeps it from being a slam-dunk recommendation, you get a lot of camera for your money in the EOS R8. Its simple control scheme is great for beginners, and feature-packed for more advanced users, and its flip-out LCD makes it flexible for off-angle shooting and vlogging.'
+    ASIN:
+        - B0DLKZS3ZV
+        - B0BGHWW2P4
+        - canon_eosr8
+        - B0BWNWZJWK
+        - B0BVP25CQB
+        - B0BWNYTS8B
+        - B0BGHYXH1P
+        - B0BTTRXL3F
+        - B0FJGB7CJZ
+        - B0BT518PK6
+        - B0BYZHDRN6
+Specs:
+    AEBracketing: ""
+    Announced: Feb 8, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E17
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: RGB primary color filters
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 133 x 86 x 70 mm (5.24 x 3.39 x 2.76″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - 'Scene Intelligent Auto, Hybrid Auto, Special Scenes, Creative Filters, Flexible-priority AE, Program AE, Shutter-priority AE, Aperture-priority AE, Manual Exposure, Bulb Exposure, Custom Shooting Modes C1, C2, C3'
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - JPEG, HEIF, CR3, C-Raw
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: ""
+    Format: H.264, H.265
+    GPS: ""
+    GPSNotes: ""
+    HDMI: Yes (Micro)
+    HeadphonePort: "Yes"
+    ISO: "100-102400"
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $1499 body only ($1699 with 24-50mm F4.5-6.3 IS)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: ""
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 1920 x 1080 @ 180p, H.265
+        - 1920 x 1080 @ 180p, H.264
+        - 1920 x 1080 @ 180p, H.265
+        - 1920 x 1080 @ 180p, H.264
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 100p, H.265
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 100p, H.264
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 100p, H.265
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 50p, H.265
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 50p, H.265
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 25p, H.265
+        - 1920 x 1080 @ 23.98p, H.265
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 25p, H.265
+        - 1920 x 1080 @ 23.98p, H.265
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+    NumberOfFocusPoints: "1053"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic X
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: |-
+        87%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.7 ×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 461 g (1.02 lb / 16.26 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""
